@@ -6,9 +6,9 @@
 Run the Server First then the Client beacuse **ServerSocket** instance is created in Server and then **Socket** instance is used all over with it's respect
 ```
 
-**SERVER**
+- **SERVER**
 ![Screenshot 2024-10-04 130221](https://github.com/user-attachments/assets/aa614c5a-65e7-4faf-902e-72f757c6558b)
 
 
-**CLIENT**
+- **CLIENT**
 ![Screenshot 2024-10-04 130250](https://github.com/user-attachments/assets/38a5aca7-0d64-44ef-8441-165a927c9b5b)
